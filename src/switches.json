@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Cherry MX",
+        "variants": [
+            {"name": "Cherry MX Red", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Brown", "type": "Tactile", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Blue", "type": "Clicky", "actuationForce": "60g", "bottomOutForce": "~65g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Black", "type": "Linear", "actuationForce": "60g", "bottomOutForce": "~80g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Clear", "type": "Tactile", "actuationForce": "65g", "bottomOutForce": "~95g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Silent Red", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
+            {"name": "Cherry MX Speed Silver", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "3.4mm"}
+        
+        ]
+    },
+
+    {
+        "name": "Alps",
+        "variants": [
+            {"name": "Alps SKCM Blue", "type": "Clicky", "actuationForce": "60g", "bottomOutForce": "~70g", "travelDistance": "3.5mm"},
+            {"name": "Alps SKCM Brown", "type": "Tactile", "actuationForce": "55g", "bottomOutForce": "~65g", "travelDistance": "3.5mm"},
+            {"name": "Alps SKCM White", "type": "Clicky", "actuationForce": "65g", "bottomOutForce": "~75g", "travelDistance": "3.5mm"},
+            {"name": "Alps SKCM Black", "type": "Linear", "actuationForce": "60g", "bottomOutForce": "~80g", "travelDistance": "3.5mm"},
+            {"name": "Alps SKCM Green", "type": "Clicky", "actuationForce": "80g", "bottomOutForce": "~90g", "travelDistance": "3.5mm"}
+
+        ]
+    }
+]
