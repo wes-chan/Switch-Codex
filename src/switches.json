@@ -2,25 +2,77 @@
     {
         "name": "Cherry MX",
         "variants": [
-            {"name": "Cherry MX Red", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Brown", "type": "Tactile", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Blue", "type": "Clicky", "actuationForce": "60g", "bottomOutForce": "~65g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Black", "type": "Linear", "actuationForce": "60g", "bottomOutForce": "~80g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Clear", "type": "Tactile", "actuationForce": "65g", "bottomOutForce": "~95g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Silent Red", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "4mm"},
-            {"name": "Cherry MX Speed Silver", "type": "Linear", "actuationForce": "45g", "bottomOutForce": "~60g", "travelDistance": "3.4mm"}
-        
+            {"name": "Cherry MX Red"},
+            {"name": "Cherry MX Blue"},
+            {"name": "Cherry MX Brown"},
+            {"name": "Cherry MX Black"},
+            {"name": "Cherry MX Silent Red"},
+            {"name": "Cherry MX Silent Black"},
+            {"name": "Cherry MX White"},
+            {"name": "Cherry MX Clear"},
+            {"name": "Cherry MX Speed Silver"},
+            {"name": "Cherry MX Grey Clicky"},
+            {"name": "Cherry MX Grey Linear"},
+            {"name": "Cherry MX Grey Tactile"},
+            {"name": "Cherry MX Lock"},
+            {"name": "Cherry MX Green"},
+            {"name": "Cherry MX RGB Nature White"},
+            {"name": "Cherry MX Ergo Clear"},
+            {"name": "Cherry MX Black Clear-Top"},
+            {"name": "Cherry MX Super Black"},
+            {"name": "Cherry MX Mega Black"},
+            {"name": "Cherry MX Orange"},
+            {"name": "Nixie"},
+            {"name": "Nixie Spacebar"},
+            {"name": "Olympia Linear Clear"},
+            {"name": "Cherry MX-M8 Adapter"},
+            {"name": "Hirose Cherry MX Orange"},
+            {"name": "Hirose Cherry MX Pale Yellow"},
+            {"name": "Hirose Cherry MX Grey Green"},
+            {"name": "Hirose Cherry MX Clear"},
+            {"name": "Cherry MX Pale Blue"},
+            {"name": "Cherry MX Dark Blue"},
+            {"name": "Cherry MX Honey"},
+            {"name": "Cherry MX Blossom"},
+            {"name": "Cherry MX Falcon"},
+            {"name": "Cherry MX Petal"},
+            {"name": "Cherry MX Northen Light"},
+            {"name": "Cherry MX Purple"},
+
+
+            {"name": "Cherry MX RGB Red"},
+            {"name": "Cherry MX RGB Blue"},
+            {"name": "Cherry MX RGB Brown"},
+            {"name": "Cherry MX RGB Black"},
+            {"name": "Cherry MX RGB Silent Red"},
+            {"name": "Cherry MX RGB Silent Black"},
+            {"name": "Cherry MX RGB Speed Silver"},
+            {"name": "Cherry MX RGB Orange"},
+            {"name": "Cherry MX RGB Purple"},
+            {"name": "Cherry MX RGB Clear"},
+            {"name": "Cherry MX RGB Ergo Clear"},
+            {"name": "Cherry MX RGB Green"},
+            {"name": "Cherry MX RGB Grey Tactile"},
+            {"name": "Cherry MX RGB Green"}
+   
+   
+
+
+
+
+
+
+
+
+
+            
         ]
     },
 
     {
         "name": "Alps",
         "variants": [
-            {"name": "Alps SKCM Blue", "type": "Clicky", "actuationForce": "60g", "bottomOutForce": "~70g", "travelDistance": "3.5mm"},
-            {"name": "Alps SKCM Brown", "type": "Tactile", "actuationForce": "55g", "bottomOutForce": "~65g", "travelDistance": "3.5mm"},
-            {"name": "Alps SKCM White", "type": "Clicky", "actuationForce": "65g", "bottomOutForce": "~75g", "travelDistance": "3.5mm"},
-            {"name": "Alps SKCM Black", "type": "Linear", "actuationForce": "60g", "bottomOutForce": "~80g", "travelDistance": "3.5mm"},
-            {"name": "Alps SKCM Green", "type": "Clicky", "actuationForce": "80g", "bottomOutForce": "~90g", "travelDistance": "3.5mm"}
+         
 
         ]
     }
